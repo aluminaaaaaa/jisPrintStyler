@@ -1,9 +1,10 @@
 # JIS PRINT Styler
 
-[kikakurui.com](kikakurui.com)で閲覧するJISの企画書を印刷する際に最適に整形します。
+[https://.kikakurui.com](kikakurui.com)で閲覧できるJISの企画書を印刷する際に印刷レイアウトを最適化します。
 
-- 一部の広告を抑制します
-- 印刷レイアウトを最適化します
+- パンくずリストを非表示にする
+- 一部の広告の表示を抑制する
+- 印刷レイアウトを最適化する
 
 # Usage
 
