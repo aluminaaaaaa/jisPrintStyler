@@ -1,0 +1,36 @@
+
+/* no ads*/
+body > div:first-child > div:nth-child(2),
+.google-auto-placed,
+.mys-wrapper,
+.grippy-host,
+ins.adsbygoogle,
+ins.adsbygoogle-noablate,
+#google-center-div {
+	display: none;
+}
+
+ins, iframe {
+	display: none;
+}
+
+@media print{
+	body > div:first-child {
+		display: none;
+	}
+
+	body {
+		background-color: #FFFFFF !important;
+		margin: 0 !important;
+	}
+
+	body > div {
+		box-shadow: none !important;
+		page-break-after: always !important;
+		margin: 0 !important;
+	}
+	
+	body > a {
+		display: none;
+	}
+}
